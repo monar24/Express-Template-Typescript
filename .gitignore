@@ -1,0 +1,13 @@
+# compiled output
+/build
+
+# Local
+.DS_Store
+
+# Node
+node_modules 
+
+#Secrets
+.env
+test.env
+prod.env
